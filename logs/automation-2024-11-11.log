@@ -1,0 +1,5 @@
+[[32mINFO [m] 2024-11-11 20:17:30,051 Utils.info() - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\OpenCartV1\Master.xml
+
+[[32mINFO [m] 2024-11-11 20:17:38,013 TC001_AccountRegister.verify_account() - ******* Starting C001_AccountRegister *******
+[[1;31mERROR[m] 2024-11-11 20:17:55,513 TC001_AccountRegister.verify_account() - Failed
